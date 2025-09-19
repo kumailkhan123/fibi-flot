@@ -179,14 +179,6 @@ If you find this project helpful:
 *Because every color tells a story...*
 
 
-
-
----
-
-<p align="center">
-  Made with ❤️ and SwiftUI
-</p>
-
 This enhanced README includes:
 - 🎨 Visual badges and shields
 - 📱 Professional app screenshots (replace placeholder URLs)
