@@ -125,7 +125,6 @@ Fibi-Flot/
 
 [![GitHub](https://img.shields.io/badge/GitHub-@kumailkhan123-181717?style=flat&logo=github)](https://github.com/kumailkhan123)
 [![Email](https://img.shields.io/badge/Email-kumailabbas3778%40gmail.com-D14836?style=flat&logo=gmail)](mailto:kumailabbas3778@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumail_Abbas-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 **iOS Developer & Color Enthusiast**  
 *Passionate about creating tools that make developers' lives easier*
@@ -152,12 +151,9 @@ Please open an issue with:
 
 ---
 
-## 📄 License
+## 📄 Copyright
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```text
-MIT License
 
 Copyright (c) 2025 Kumail Abbas
 
@@ -177,15 +173,13 @@ If you find this project helpful:
 
 ---
 
-<div align="center">
 
 ### 🎨 Happy Coloring!
 
 *Because every color tells a story...*
 
-[![Download on App Store](https://img.shields.io/badge/Download-App_Store-0D96F6?style=for-the-badge&logo=app-store)](https://apps.apple.com/app/your-app-id)
 
-</div>
+
 
 ---
 
